@@ -1,7 +1,6 @@
 export const FETCH_CHEESES_REQUEST = 'FETCH_CHEESES_REQUEST';
 export const fetchCheesesRequest = () => ({
     type: FETCH_CHEESES_REQUEST,
-    cheeses
 });
 
 export const FETCH_CHEESES_SUCCESS = 'FETCH_CHEESES_SUCCESS';
